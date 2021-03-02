@@ -1,3 +1,3 @@
 # Go Learning
 
-files from learning Go language
+files from learning Go language (coursera)
